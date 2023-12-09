@@ -17,6 +17,7 @@ const NavBar = () => {
             <Nav.Link as={Link} to={"/Monitores"}>Monitores</Nav.Link>
             <Nav.Link as={Link} to={"/Mouses"}>Mouses</Nav.Link>
             <Nav.Link as={Link} to={"/Teclados"}>Teclados</Nav.Link>
+            <Nav.Link as={Link} to={"/Cart"}>Tu Carrito</Nav.Link>
           </Nav>
           </Container>
         </Navbar>
