@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import NavBar from './components/Navbar/Navbar'
 import ItemListContainer from './components/itemListContainer/ItemListContainer'
@@ -8,7 +5,9 @@ import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Error from './components/Error/Error'
 import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer'
 import Cart from './components/Cart/Cart'
-import { CartProvider } from './contexto/CartContext'
+import CartProvider from './contexto/CartContext'
+import {getFirestore} from "firebase/firestore"
+
 
 function App() {
 
@@ -33,9 +32,8 @@ function App() {
     </CartProvider>
 
     </BrowserRouter>
-
     </>
   )
 }
 
-export default App
+export default App;

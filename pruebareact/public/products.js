@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "nombre": "Monitor Gamer ASUS VA24EHE 23.8 Negro 100v/240v",
+        "nombre": "Monitor ASUS 23.8'' Negro 100v/240v",
         "precio": 1100,
         "img": "/img/monitor 2.jpg",
         "descripcion": "Pantalla Full HD de 23.8, tecnologías FreeSync y AdaptiveSync para una jugabilidad fluido, conexiones HDMI 1.4, DVID y VGA, diseño reclinable.",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "nombre": "Monitor gamer Samsung Odyssey G3 S24AG30 LCD 24 negro 100V/240V",
+        "nombre": "Monitor Samsung Odyssey G3 LCD 24'' negro 100V/240V",
         "precio": 1200,
         "img": "/img/monitor 3.jpg",
         "descripcion": "Pantalla LCD de 24, tiene una resolución de 1920px-1080px, relación de aspecto de 16:9, tipos de conexión: DisplayPort 1.2, HDMI 1.4, Jack 3.5 mm.",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "nombre": "Monitor gamer LG 27GL650F led 27 negro 100V/240V",
+        "nombre": "Monitor LG led 27'' negro 100V/240V",
         "precio": 1300,
         "img": "/img/monitor 4.jpg",
         "descripcion": "Pantalla led de 27, tiene una resolución de 1920px-1080px, panel IPS, tipos de conexión: DisplayPort, 2 HDMI, Jack 3.5 mm, es giratorio y reclinable",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "nombre": "Mouse gamer de juego Redragon Centrophorus2 M601-RGB black",
+        "nombre": "Mouse gamer de juego Redragon black",
         "precio": 50,
         "img": "/img/mouse 1.png",
         "descripcion": "Utiliza cable, con luces para mejorar la experiencia de uso, con sensor óptico, resolución de 7200dpi.",
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "nombre": "Mouse gamer de juego Razer DeathAdder Essential negro",
+        "nombre": "Mouse gamer de juego Razer Essential negro",
         "precio": 60,
         "img": "/img/mouse 2.jpg",
         "descripcion": "Utiliza cable, con luces para mejorar la experiencia de uso, con sensor óptico, resolución de 6400dpi.",
@@ -91,7 +91,7 @@
     },
     {
         "id": 11,
-        "nombre": "Mouse gamer de juego Logitech G Series Lightsync G203 lila",
+        "nombre": "Mouse gamer de juego Logitech G Series G203 lila",
         "precio": 70,
         "img": "/img/mouse 3.jpg",
         "descripcion": "Utiliza cable, con luces para mejorar la experiencia de uso, con sensor óptico, resolución de 8000dpi",
@@ -103,13 +103,13 @@
         "nombre": "Mouse gamer inalámbrico Logitech Serie G Lightspeed G305 black",
         "precio": 80,
         "img": "/img/mouse 4.png",
-        "descripcion": "Es inalámbrico, tipo de alimentación inalámbrica: pilas, cuenta con interruptor de ahorro de energía, con sensor óptico, resolución de 12000dpi, diseño ergonómico y personalizable con 6 botones, ideal para usuarios diestros y amantes del gaming.",
+        "descripcion": "Es inalámbrico, tipo de alimentación inalámbrica: pilas, cuenta con interruptor de ahorro de energía, con sensor óptico, resolución de 12000dpi, diseño ergonómico y personalizable con 6 botones.",
         "stock": 7,
         "categoria": "Mouses"
     },
     {
         "id": 13,
-        "nombre": "Teclado gamer Redragon Dragonborn K630 QWERTY Redragon Brown inglés US color negro con luz RGB",
+        "nombre": "Teclado Redragon Dragonborn K630 QWERTY Redragon Brown inglés US color negro con luz RGB",
         "precio": 400,
         "img": "/img/teclado 1.png",
         "descripcion": "Resiste a salpicaduras, función antighosting incorporada, teclado mecánico, con cable removible, medidas: 29.17cm de ancho, 10.17cm de alto y 3.6cm de profundidad.",
@@ -118,7 +118,7 @@
     },
     {
         "id": 14,
-        "nombre": "Teclado gamer Redragon Kumara K552 QWERTY Outemu Blue español latinoamérica color blanco con luz RGB",
+        "nombre": "Teclado Redragon Kumara QWERTY Outemu Blue español latinoamérica color blanco con luz RGB",
         "precio": 500,
         "img": "/img/teclado 2.jpg",
         "descripcion": "Resiste a salpicaduras, función antighosting incorporada, tteclado mecánico, con conector USB, medidas: 37.5cm de ancho, 15.5cm de alto y 4.3cm de profundidad.",
@@ -127,7 +127,7 @@
     },
     {
         "id": 15,
-        "nombre": "Teclado gamer HyperX Alloy Origins QWERTY Blue español latinoamérica color negro con luz RGB",
+        "nombre": "Teclado HyperX Alloy Origins QWERTY Blue español latinoamérica color negro con luz RGB",
         "precio": 600,
         "img": "/img/teclado 3.jpeg",
         "descripcion": "Función antighosting incorporada, teclado mecánico, con conector USB-C, con cable removible, medidas: 442.5mm de ancho, 132.5mm de alto y 36.39mm de profundidad.",
@@ -136,7 +136,7 @@
     },
     {
         "id": 16,
-    "nombre": "Teclado gamer HyperX Alloy Elite 2 QWERTY Red español latinoamérica color negro con luz RGB",
+    "nombre": "Teclado HyperX Alloy Elite 2 QWERTY Red español latinoamérica color negro con luz RGB",
     "precio": 700,
     "img": "/img/teclado 4.jpg",
     "descripcion": "Función antighosting incorporada, teclado mecánico, con conector USB 2.0, medidas: 444mm de ancho, 174mm de alto y 37.4mm de profundidad.",
