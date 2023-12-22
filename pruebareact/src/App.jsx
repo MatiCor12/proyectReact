@@ -7,6 +7,7 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import Cart from './components/Cart/Cart'
 import CartProvider from './contexto/CartContext'
 import {getFirestore} from "firebase/firestore"
+import Checkout from './components/Checkout/Checkout'
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <Route path='/:categoryId' element={<ItemListContainer/>}/>
       <Route path='/item/:idProduct' element={<ItemDetailContainer/>}/>
       <Route path='/Cart' element={<Cart/>}/>
+      <Route path='/Checkout' element={<Checkout/>}/>
       <Route path='*' element={<Error/>}/>
 
     </Routes>

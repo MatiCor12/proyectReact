@@ -23,6 +23,7 @@ const Cart = () => {
             <p>
                 Total: {totalPrice()}
             </p>
+            <Link to={"/Checkout"}>Terminar la compra</Link>
         </>
     )
 }
