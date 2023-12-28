@@ -1,0 +1,17 @@
+.tituloDetail {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10%;
+}
+
+.tituloDetail h2 {
+    font-size: 50px;
+}
+
+.tituloDetail > img {
+    width: 30%;
+    height: 300px;
+}
